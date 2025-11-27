@@ -61,15 +61,15 @@ const Footer = () => {
             <h3 className='title'>Contact Information</h3>
             <div className='contactItem'>
               <MdMeetingRoom color='7828C8' style={{ marginRight: '10px' }} />{' '}
-              622 Dixie Path , South Tobinchester 98336
+              Medellin, Colombia
             </div>
             <div className='contactItem'>
-              <AiFillPhone color='7828C8' style={{ marginRight: '10px' }} /> +1
-              234 56 789
+              <AiFillPhone color='7828C8' style={{ marginRight: '10px' }} /> +57
+              300 913 8814
             </div>
             <div className='contactItem'>
               <AiFillMail color='7828C8' style={{ marginRight: '10px' }} />{' '}
-              dev.phansihoang@gmail.com
+              hernando00310@gmail.com
             </div>
           </Grid>
           <Grid xs={12} sm={4} md={3} direction='column' css={{ p: 20 }}>
